@@ -7,7 +7,7 @@ shopt -s checkwinsize
 
 # History file
 export HISTFILE=~/.bash_history
-export HISTCONTROL=ignoredups
+export HISTCONTROL=ignoreboth
 
 # Enable history appending instead of overwriting.
 shopt -s histappend
