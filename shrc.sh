@@ -3,6 +3,7 @@
 # Save more history
 export HISTSIZE=10000
 export SAVEHIST=10000
+export HISTFILESIZE=10000
 
 # Colourful manpages
 export LESS_TERMCAP_mb=$'\E[01;31m'
