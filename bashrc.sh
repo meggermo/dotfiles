@@ -27,3 +27,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Some more aliases
+alias ll='ls -la'
+
