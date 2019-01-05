@@ -38,7 +38,7 @@ force_add_to_path_start() {
   export PATH="$1:$PATH"
 }
 
-force_add_to_path_start "bin"
+force_add_to_path_start "$HOME/.local/bin"
 
 quiet_which() {
   which $1 1>/dev/null 2>/dev/null
