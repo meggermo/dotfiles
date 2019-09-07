@@ -56,4 +56,4 @@ fi
 # Run dircolors if it exists
 quiet_which dircolors && eval $(dircolors -b)
 
-
+export DOTNET_SKIP_FIRST_TIME_EXPERIENCE="true"
