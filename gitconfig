@@ -1,0 +1,11 @@
+[user]
+	name = Michiel Eggermont
+	email = michiel.eggermont@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
+[color]
+	ui = auto
+[alias]
+	lol = log --decorate --oneline --graph
